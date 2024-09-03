@@ -1,0 +1,32 @@
+.fromblog1{
+    height: 230px;
+    width: 607px;
+    
+}
+.formtypes{
+    width: 56%;
+}
+.formtype1{
+    width: 70px;
+    height: 40px;
+    border: solid 1px #c87065;
+}
+.formtype1 p{
+    font-size: 20px;
+    font-weight: 600;
+    color: #c87065;
+}
+.furni{
+    margin-top: -14px;
+    font-size: 18px;
+    font-weight: 600;
+    width: 15rem;
+    margin-right: -92px;
+}
+.form-sub{
+    width: 100%;
+}
+
+.fromblog1 img:hover{
+    
+}

@@ -1,0 +1,54 @@
+.fetuerd-product {
+    margin-top: -140px;
+}
+.fetured-underline{
+    width: 50px;
+    height: 2px;
+    background-color: brown;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.featuredHoving{
+    width: 297px;
+    height: 375px;
+    
+}
+.featuredHoving h6:hover{
+    color: #c8a165;
+    transition: .6s;
+    
+}
+
+.fetured1{
+    width: 267px;
+    height: 267px;
+    background-image: url('https://template.hasthemes.com/hurst-v1/hurst/img/product/3.jpg');
+}
+.fetured2{
+    width: 267px;
+    height: 267px;
+    background-image: url('https://template.hasthemes.com/hurst-v1/hurst/img/product/1.jpg');
+}
+.fetured3{
+    width: 267px;
+    height: 267px;
+    background-image: url('https://template.hasthemes.com/hurst-v1/hurst/img/product/4.jpg');
+}
+.fetured4{
+    width: 267px;
+    height: 267px;
+    background-image: url('https://template.hasthemes.com/hurst-v1/hurst/img/product/2.jpg');
+}
+
+.subNew1{
+    width: 3rem;
+    height: 25px;
+    color: white;
+    font-size: 15px;
+    background-color: #c8a165;
+    
+    position: relative;
+    top: 15px;
+}
+

@@ -1,0 +1,155 @@
+.icons-left{
+    height: 50rem;
+    width: 2rem;
+    
+}
+
+.iconsinleft{
+    width: 4px;
+    margin-left: 25px;
+    margin-top: 13.2rem;
+    margin-right: auto;
+}
+.icon-link :hover{
+    color: #c8a165;
+    transition: .6s;
+    
+}
+
+.sub-products{
+    height: 38rem;
+    width: 24rem;
+    
+}
+
+.sub-product1{
+    width: 24rem;
+    height: 278px;
+background-image: url('https://template.hasthemes.com/hurst-v1/hurst/img/banner/1.jpg');
+background-position: center;
+background-size: cover;
+}
+.subNew1{
+    width: 3rem;
+    height: 25px;
+    color: white;
+    font-size: 15px;
+    background-color: #c8a165;
+    
+}
+
+
+
+.sub2{
+    margin-top: 11rem;
+}
+.sub2 p{
+    font-size: 18px;
+}
+.Link p:hover{
+    color: #c8a165;
+    transition: .6s;
+}
+.sub2 button{
+    border: solid 1px gray;
+    width: 6rem;
+    height: 30px;
+    margin-top: 10px;
+}
+.sub2 button:hover{
+    background-color: #c8a165;
+    transition: all 0.5s;
+    color: white;
+    border-color: white;
+}
+
+.sub-product2{
+    width: 24rem;
+    height: 278px;
+background-image: url('https://template.hasthemes.com/hurst-v1/hurst/img/banner/2.jpg');
+background-position: center;
+background-size: cover;
+
+}
+.sub2-text{
+    margin-left: 13rem;
+    height: 278px;
+    width: 9rem;
+}
+.sub2-text button{
+    border: solid 1px gray;
+    width: 6rem;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.sub2-text button:hover{
+    background-color: #c8a165;
+    transition: all 0.5s;
+    color: white;
+    border-color: white;
+    
+
+}
+.main-products{
+    height: 38rem;
+    width: 57rem;
+   
+   
+
+}
+.main1{
+    
+    
+    width: 27rem;
+    margin-left: 17rem;
+    margin-bottom: 10rem;
+    color: #919291;
+
+    
+}
+.main1 h1{
+    font-size: 60px;
+    font-weight: 900;
+    margin-left: 10px;
+    margin-top: -15px;
+}
+.main1 h4{
+    margin-right: 8rem;
+}
+.main1 p{
+    margin-left: 2rem;
+    font-size: 13px;
+}
+.main1 button{
+    border: solid 1px ;
+    width: 8rem;
+    height: 2.5rem;
+    margin-top: 10px;
+    background-color: #eeece8;;
+    color: black;
+   
+
+}
+.main1 button:hover{
+    background-color: #c8a165;
+    transition: all 0.5s;
+    color: white;
+    border-color: white;
+
+}
+    
+
+
+.right-icons{
+    height: 50rem;
+    width: 2rem;
+   
+}
+.iconsinright{
+    width: 27px;
+    margin-left: auto;
+    margin-top: 13.2rem;
+    margin-right: auto;
+
+}

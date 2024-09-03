@@ -1,0 +1,51 @@
+.image1{
+    background-image: url('https://template.hasthemes.com/hurst-v1/hurst/img/discount/1.jpg');
+    width: 1170px;
+    height: 500px;
+}
+.imagerounddiv{
+
+    width: 8rem;
+    height: 8rem;
+    background-color: #c87065;
+    margin-left: 16rem;
+    position: relative;
+    top: 100px;
+    border-radius: 50%;
+    
+}
+.rounddovtext{
+    color: white;
+}
+.rounddovtext h5{
+    position: relative;
+    top: 25px;
+    margin-left: 30px;
+
+}
+.roundLine{
+    width: 30px;
+    height: 2.5px;
+    background-color: white;
+    margin-left: 45px;
+    position: relative;
+    top: 25px;
+}
+.imageText{
+    width: 35rem;
+    margin-left: 35rem;
+    margin-top: -35px;
+    color: #c87065;
+}
+.image-button{
+    width: 8rem;
+    font-size: 18px;
+    margin-top: 50px;
+    border: #c87065;
+    background-color: #c87065;
+    color: white;
+}
+.image-button:hover{
+    background-color: #c8a165;
+    transition: .6s;
+}
